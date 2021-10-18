@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**MF57/MF57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/p_bochenek">
+  <img align="left" alt="Piotr Bochenek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/piotr-bochenek-49a14198/">
+  <img align="left" alt="Piotr's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/1178877357?si=c8HDhJmnT7-zsdVvG2oqCQ">
+  <img align="left" alt="Piotr's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://paypal.me/bochenekpiotr">
+  <img align="left" alt="Piotr's Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
+</a>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mf57&show_icons=true&theme=dark&count_private=true" alt="githubstats" />
