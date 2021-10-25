@@ -19,6 +19,8 @@ I'm Fullstack Software Engineer because I like when people use stuff I've made a
   <img align="left" alt="Piotr's Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mf57)
+
 <br/>
 
 ## Languages and Tools
