@@ -23,20 +23,35 @@ I'm Fullstack Software Engineer because I like when people use stuff I've made a
 
 ## Languages and Tools
 
+Here are some Midjourney generated concept arts where the inputs were logos of some of the languages/frameworks/techonologies that I use. Can you guess them all? :) 
+
 <p align="middle">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="300" src="https://cdn.midjourney.com/40599abf-8377-4905-bc56-5e5024786e25/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/d19b713c-a125-457b-8326-2f1122c9b3d9/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/30f3fe9b-12cb-4922-b508-c25b52e8413c/grid_0.png">
 </p>
 
 <br/>
 
+<p align="middle">
+  <img height="300" src="https://cdn.midjourney.com/aeeb7999-dac6-4641-b6f3-8cf2e124e1a5/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/fcd9d84c-264f-4526-abd7-3c112518a9cd/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/0ef8cc7d-90b7-45f5-bd11-692007ed34da/grid_0.png">
+</p>
+
+<br/>
+
+<p align="middle">
+  <img height="300" src="https://cdn.midjourney.com/07d5c805-9915-4f67-bd86-e9d7c762b8a3/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/f0301722-7c91-43ba-8d17-35b1241e3e00/grid_0.png">
+  <img height="300" src="https://cdn.midjourney.com/80125818-1626-43a2-90d3-f4b2fd7b336c/grid_0.png">
+</p>
+
+<br/>
+
+<p align="middle">
+  <img height="300" src="https://cdn.midjourney.com/af6972ee-eb2c-466d-afcf-7ddb01944c39/grid_0.png">
+</p>
 
 ## Github Stats
 
