@@ -1,6 +1,6 @@
 # What's up, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Freelance Fullstack Software Engineer because I like when people use stuff I've made and I don't like to rely on 17 other teams. I'm was a Team Leader because I've rolled a nat 20 on charisma roll that one time... Currently located in Cracow and working for Kindred so people could travel freely!
+I'm Fullstack Software Engineer because I like when people use stuff I've made and I don't like to rely on 17 other teams. I was a Team Leader because I've rolled a nat 20 on charisma roll that one time... but architecting complex distributed systems is cool! Currently located in Cracow and leading Velocit into the future.
 <br/>
 
 ## Social Media and others
